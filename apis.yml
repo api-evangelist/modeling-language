@@ -1,11 +1,17 @@
+aid: modeling-language
 name: Modeling Language
-description: Modeling Language is a visual computing technology used for creating,
-  processing, or displaying graphical content. It supports applications in design,
-  simulation, entertainment, and data visualization.
-url: null
+description: Modeling Language is a formal language used for specifying, visualizing, constructing, and documenting the artifacts of a system, used in software engineering, systems design, and data modeling.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
 - Modeling Language
+- UML
+- System Design
 created: '2025'
-modified: '2025'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
