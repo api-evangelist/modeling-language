@@ -4,9 +4,9 @@ description: Modeling Language is a formal language used for specifying, visuali
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Modeling Language
-- UML
-- System Design
+  - Modeling Language
+  - System Design
+  - UML
 created: '2025'
 modified: '2026-03-16'
 specificationVersion: '0.19'
