@@ -9,7 +9,18 @@ description: >-
   modeling languages and notations relevant to the API and software design
   space.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/modeling-language.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/modeling-language/refs/heads/main/apis.yml
 access: 3rd-Party
