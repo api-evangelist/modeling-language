@@ -27,7 +27,7 @@ access: 3rd-Party
 created: '2025'
 modified: '2026-04-28'
 position: Consumer
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - Modeling Language
   - System Design
