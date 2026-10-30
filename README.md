@@ -1,4 +1,4 @@
-# Modeling Language (modeling-language)
+# Modeling Language
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,32 +66,26 @@
 
 A modeling language is a formal language used for specifying, visualizing, constructing, and documenting the artifacts of a system. Modeling languages are used in software engineering, systems design, enterprise architecture, and data modeling to capture structure and behavior in a way that can be shared, reasoned about, and turned into running systems. This index tracks modeling languages and notations relevant to the API and software design space.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/modeling-language/refs/heads/main/apis.yml)
+**Areas:** Modeling Language · System Design · UML · SysML · Architecture · Specification · Concept
 
-## Scope
+## Modeling Language on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Modeling Language is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/modeling-language/](https://apis.io/providers/modeling-language/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## API Evangelist rating
 
- - Modeling Language, System Design, UML, SysML, Architecture, Specification, Concept
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Timestamps
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-- **Created:** 2025
-- **Modified:** 2026-04-28
+## How this profile is made
 
-## About
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-Modeling Language is a concept and a category, so this repository serves as an index entry. No OpenAPI definition is included because there is no underlying REST API to describe; individual modeling languages or tools may be tracked as their own repositories within the API Evangelist Network.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Modeling Language: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Common Properties
+## Open an issue
 
-- [Reference (Wikipedia)](https://en.wikipedia.org/wiki/Modeling_language)
-
-## Maintainers
-
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/modeling-language/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
